@@ -1,0 +1,8 @@
+Evidencia-00: 	Ejecución end to end correcta. Se solicita dimención para la matriz, se muestra la carga inicial de la matriz 
+				y se hace el cálculo de la suma de las filas y columnas, finalmente se muestra la matriz final de dimensión n+1 
+				integrando la suma de filas yt columnas.
+				
+Evidencia-01:	Se muestra la interacción y control de errores para recoger la dimensión incial de la matriz.
+					- La dimensión debe ser un número en el rango solicitado.
+					- Entrada inválida. Introduce una dimensión entera de acuerdo al rango indicado.
+					- Proceso Abortado.
